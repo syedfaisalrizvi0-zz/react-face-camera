@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3728d742.chunk.css",
-    "main.js": "/static/js/main.31d4b718.chunk.js",
-    "main.js.map": "/static/js/main.31d4b718.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ecfa9682.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ecfa9682.js.map",
-    "static/js/2.a48a71d2.chunk.js": "/static/js/2.a48a71d2.chunk.js",
-    "static/js/2.a48a71d2.chunk.js.map": "/static/js/2.a48a71d2.chunk.js.map",
-    "static/js/3.4dd3cf75.chunk.js": "/static/js/3.4dd3cf75.chunk.js",
-    "static/js/3.4dd3cf75.chunk.js.map": "/static/js/3.4dd3cf75.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3728d742.chunk.css.map": "/static/css/main.3728d742.chunk.css.map",
-    "static/js/2.a48a71d2.chunk.js.LICENSE.txt": "/static/js/2.a48a71d2.chunk.js.LICENSE.txt"
+    "main.css": "/react-face-camera/static/css/main.3728d742.chunk.css",
+    "main.js": "/react-face-camera/static/js/main.31d4b718.chunk.js",
+    "main.js.map": "/react-face-camera/static/js/main.31d4b718.chunk.js.map",
+    "runtime-main.js": "/react-face-camera/static/js/runtime-main.0e670464.js",
+    "runtime-main.js.map": "/react-face-camera/static/js/runtime-main.0e670464.js.map",
+    "static/js/2.a48a71d2.chunk.js": "/react-face-camera/static/js/2.a48a71d2.chunk.js",
+    "static/js/2.a48a71d2.chunk.js.map": "/react-face-camera/static/js/2.a48a71d2.chunk.js.map",
+    "static/js/3.4dd3cf75.chunk.js": "/react-face-camera/static/js/3.4dd3cf75.chunk.js",
+    "static/js/3.4dd3cf75.chunk.js.map": "/react-face-camera/static/js/3.4dd3cf75.chunk.js.map",
+    "index.html": "/react-face-camera/index.html",
+    "static/css/main.3728d742.chunk.css.map": "/react-face-camera/static/css/main.3728d742.chunk.css.map",
+    "static/js/2.a48a71d2.chunk.js.LICENSE.txt": "/react-face-camera/static/js/2.a48a71d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ecfa9682.js",
+    "static/js/runtime-main.0e670464.js",
     "static/js/2.a48a71d2.chunk.js",
     "static/css/main.3728d742.chunk.css",
     "static/js/main.31d4b718.chunk.js"
